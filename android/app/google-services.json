@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "745095155238",
+    "project_id": "e-app-e32f2",
+    "storage_bucket": "e-app-e32f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745095155238:android:dcbe00de410bc2de56e0e7",
+        "android_client_info": {
+          "package_name": "com.example.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_IkKS3FngYuSZ0Xcq16VMCayV46yL-Fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
