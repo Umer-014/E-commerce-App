@@ -20,9 +20,6 @@
          ![WhatsApp Image 2024-07-06 at 19 40 49_53333484](https://github.com/Umer-014/E-commerce-App/assets/150695798/64049780-5ebe-4480-8dee-4b96c024b274)
          ![WhatsApp Image 2024-07-06 at 19 50 01_91905f60](https://github.com/Umer-014/E-commerce-App/assets/150695798/a7ea2e98-b876-41cb-8ef7-75029bcc2058)
 
-
-
-
 **Getting Started:**
 
 1. Clone this repository.
